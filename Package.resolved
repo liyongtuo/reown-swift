@@ -47,21 +47,12 @@
         }
       },
       {
-        "package": "CoinbaseWalletSDK",
-        "repositoryURL": "https://github.com/MobileWalletProtocol/wallet-mobile-sdk",
-        "state": {
-          "branch": null,
-          "revision": "84b3d3f25a2e3b140ec12bb0d22c35b58f817d44",
-          "version": "1.0.0"
-        }
-      },
-      {
         "package": "Yttrium",
         "repositoryURL": "https://github.com/reown-com/yttrium",
         "state": {
           "branch": null,
-          "revision": "eb6e3f8351fc3972df37c9b72c04cd606e01bac9",
-          "version": "0.5.1"
+          "revision": "eddb36e023a8862c464f55977d3a699ecaa03a55",
+          "version": "0.7.0"
         }
       }
     ]
